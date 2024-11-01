@@ -1,0 +1,13 @@
+/* 
+    Document   : jads_admin
+    Created on : 20 Ιαν 2014, 2:30:22 πμ
+    Author     : Konstantinos Tsatsarounos
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.menu-icon-jads div.wp-menu-image:before {
+    font-family: 'icomoon'!important;
+    content: '\e616';
+}
+

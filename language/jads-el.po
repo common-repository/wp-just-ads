@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Just ADS\n"
+"POT-Creation-Date: 2013-11-11 17:57+0200\n"
+"PO-Revision-Date: 2013-11-11 17:57+0200\n"
+"Last-Translator: Konstantinos Tsatsarounos <konstantinos.tsatsarounos@gmail."
+"com>\n"
+"Language-Team: Konstantinos Tsatsarounos <konstantinos.tsatsarounos@gmail."
+"com>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:12
+msgid "The ads sending was succesfull"
+msgstr "H δημοσίευση ήταν επιτυχής"
+
+#: includes/metaboxes.php:12 includes/templates/template.category_item.php:33
+msgid "Price"
+msgstr "Τιμή"
+
+#: includes/metaboxes.php:13
+msgid "Email"
+msgstr "Ηλ. Ταχ"
+
+#: includes/metaboxes.php:14 includes/templates/template.category_item.php:28
+msgid "Location"
+msgstr "Περιοχή"
+
+#: includes/metaboxes.php:15 includes/templates/template.create_ads.php:63
+msgid "Contact Name"
+msgstr "Όνομα"
+
+#: includes/metaboxes.php:16
+msgid "Phone Number"
+msgstr "Αρ. Τηλ"
+
+#: includes/posttype.ads.php:7
+msgid "Advertisement"
+msgstr "Αγγελία"
+
+#: includes/posttype.ads.php:8
+msgid "Parent Advertisement:"
+msgstr "Γονική κατηγορία"
+
+#: includes/posttype.ads.php:9
+msgid "All Advertisements"
+msgstr "Ολες οι αγγελίες"
+
+#: includes/posttype.ads.php:10
+msgid "View Advertisement"
+msgstr "Επισκόπηση Αγγελίας"
+
+#: includes/posttype.ads.php:11
+msgid "Add New Advertisement"
+msgstr "Προσθεση Νέα Αγγελία"
+
+#: includes/posttype.ads.php:12
+msgid "New Advertisement"
+msgstr "Νέα Αγγελία"
+
+#: includes/posttype.ads.php:13
+msgid "Edit Advertisement"
+msgstr "Διορθωσε Αγγελία"
+
+#: includes/posttype.ads.php:14
+msgid "Update Advertisement"
+msgstr "Αναβάθμισε Αγγελία"
+
+#: includes/posttype.ads.php:15
+msgid "Search advertisement"
+msgstr "Ψάξε για αγγελία"
+
+#: includes/posttype.ads.php:16
+msgid "No advertisements found"
+msgstr "Δε βρέθηκαν αγγελίες"
+
+#: includes/posttype.ads.php:17
+msgid "No advertisements found in Trash"
+msgstr "Δε βρέθηκαν αγγελίες στον κάδο"
+
+#: includes/posttype.ads.php:20
+msgid "jads"
+msgstr "Εφαρμ. αγγελιών"
+
+#: includes/posttype.ads.php:21
+msgid "Is for storing ads"
+msgstr "καταχώρηση και εύρεση αγγελιών"
+
+#: includes/taxonomy.php:9
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: includes/taxonomy.php:10
+msgid "All Categories"
+msgstr "Όλες οι κατηγορίες"
+
+#: includes/taxonomy.php:11
+msgid "Parent Category"
+msgstr "Γονική Κατηγορία"
+
+#: includes/taxonomy.php:12
+msgid "Parent Category:"
+msgstr "Γονική κατηγορία"
+
+#: includes/taxonomy.php:13
+msgid "New Category Name"
+msgstr "Όνομα νέας κατηγορίας"
+
+#: includes/taxonomy.php:14
+msgid "Add New Category"
+msgstr "Πρόσθεσε νέα κατηγορία"
+
+#: includes/taxonomy.php:15
+msgid "Edit Category"
+msgstr "Διόρθωση κατηγορίας"
+
+#: includes/taxonomy.php:16
+msgid "Update Category"
+msgstr "Αναβάθμισε κατηγορία"
+
+#: includes/taxonomy.php:17
+msgid "Separate categories with commas"
+msgstr "Χώρισε τις κατηγορίες με κομμά"
+
+#: includes/taxonomy.php:18
+msgid "Search categories"
+msgstr "Ψάξε κατηγορίες"
+
+#: includes/taxonomy.php:19
+msgid "Add or remove categories"
+msgstr "Προσθεση ή αφαίρεσε κατηγορίες"
+
+#: includes/taxonomy.php:20
+msgid "Choose from the most used categories"
+msgstr "Διαλεξε από τις πιο συχνές κατηγορίες"
+
+#: includes/templates/template.category_item.php:12
+msgid "More information"
+msgstr "Πληροφορίες"
+
+#: includes/templates/template.category_item.php:18
+msgid "Name"
+msgstr "Όνομα"
+
+#: includes/templates/template.category_item.php:23
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: includes/templates/template.create_ads.php:62
+msgid "Ad Title"
+msgstr "Τίτλος αγγελίας"
+
+#: includes/templates/template.create_ads.php:64
+msgid "Contact Phone"
+msgstr "Τηλέφωνο"
+
+#: includes/templates/template.create_ads.php:67
+msgid "Ad Location"
+msgstr "Νομός / Περιοχή"
+
+#: includes/templates/template.create_ads.php:68
+msgid "Contact/Application email (private)"
+msgstr "Ηλ. Ταχυδρομείο (κρυφό)"
+
+#: includes/templates/template.create_ads.php:69
+msgid "Ad Price"
+msgstr "Τιμή"
+
+#: includes/templates/template.create_ads.php:81
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: includes/templates/template.display_menu.php:6
+msgid "Active Categories"
+msgstr "Ενεργές κατηγορίες"
+
+#: includes/templates/template.display_menu.php:9
+msgid "New ADS"
+msgstr "Νέα αγγελία"
+
+#: includes/templates/template.display_menu.php:12
+msgid "My ADS"
+msgstr "Οι αγγελίες μου"
+
+#: includes/templates/template.display_menu.php:15
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: includes/templates/template.user_ads.php:27
+msgid "You are not logged in! Please login and try again..."
+msgstr "Δεν είστε συνδεδεμένος! Παρακαλώ συνδεθείτε και προσπαθήστε ξανα..."
